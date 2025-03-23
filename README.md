@@ -12,3 +12,5 @@ To use:
 - Click and drag on the map with right click to erase what you wrote/drew
 
 I'm leaving it public so that others can take advantage of this to improve the game's international competitive scenario, in addition to making room for this program to become even better.
+
+I'm also working on a better, mobile-friendly version of this program(currently Android-only).
